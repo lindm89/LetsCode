@@ -19,6 +19,8 @@
     ## boston <- read.csv(put filepath here in quotes and make sure all \ are replaced with /)
   ## load data from MASS package 
     boston <- Boston 
+    
+  ## I MADE AN EDIT
   
 ## View data and such
   ## What is the data class
